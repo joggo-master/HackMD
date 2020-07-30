@@ -1,5 +1,8 @@
 # JOGGO - ロゴ
 
+[![hackmd-github-sync-badge](https://hackmd.io/p13TVYHcTv-s_24nWO9kCA/badge)](https://hackmd.io/p13TVYHcTv-s_24nWO9kCA)
+
+
 ###### tags: `CI/VI` `ロゴ` `tm_制作`
 
 [企画書 - JOGGO CI/VI](https://docs.google.com/spreadsheets/d/19OwZLuSYYeGbH0tgxDnGXY3hMTkK4_oLq1vqIWK8ScY/edit?usp=sharing)
