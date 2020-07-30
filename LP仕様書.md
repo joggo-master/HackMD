@@ -128,7 +128,8 @@ https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use
 |項目|内容|MEMO|
 | -------- | -------- | -------- |
 |ファミリー|-apple-system,BlinkMacSystemFont,"Helvetica Neue",Arial,"游ゴシック体",YuGothic,"Yu Gothic M","游ゴシック Medium","Yu Gothic Medium","Hiragino Sans","ヒラギノ角ゴ ProN W3","Hiragino Kaku Gothic ProN",Meiryo,sans-serif|デザインによりWEBフォント使用可。common.cssに記述があるため、LPに記述は不要。※2020/10~はA1ゴシックStdNに変更になります。|
-|サイズ|Default:16px(1.6rem) / 最小:12px(1.2rem)|ページ内は`rem`でサイズ指定してください。|
+|通常サイズ|16px(1.6rem)|※ページ内は`rem`でサイズ指定してください。|
+|最小サイズ|12px(1.2rem)|注釈などのレベル下げ文字の最小設定です。読ませる文字には使用しないでください。|
 |カラー|Default:#333333|デザインにより変更可|
 |line-height|1.75|px指定禁止|
 |letter-spacing|0.05em|px指定禁止|
