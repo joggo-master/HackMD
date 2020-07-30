@@ -1,5 +1,8 @@
 # LP仕様書
 
+[![hackmd-github-sync-badge](https://hackmd.io/Re0EVgCpQDai3Yyr0EkmRA/badge)](https://hackmd.io/Re0EVgCpQDai3Yyr0EkmRA)
+
+
 ###### tags: `tm_制作` `ナレッジ共有` `仕様書`
 
 デザイン・コーディングのガイドラインです。
