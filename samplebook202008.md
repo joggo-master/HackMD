@@ -1,5 +1,8 @@
 # samplebook202008
 
+[![hackmd-github-sync-badge](https://hackmd.io/MwE6r9dSTvm9yPqHVhpCWg/badge)](https://hackmd.io/MwE6r9dSTvm9yPqHVhpCWg)
+
+
 ###### tags: `バナー制作` `tm_制作` `Instagram` `SNS `
 
 コンテンツ内容:
